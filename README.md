@@ -1,5 +1,6 @@
 **Course:** ORIE 5135, Spring 2026  
 **Instructor:** Andrea Lodi
+**Student:** Sulaiman Alam - sa2459
 
 ---
 
